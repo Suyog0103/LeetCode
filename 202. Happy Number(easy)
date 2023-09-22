@@ -50,11 +50,11 @@ ________________________________________________________________________________
 //             }
 //             else
 //             {
-//                 if(s==n)
-//                     return false;                 //for not happy no
+//                 if(temp2==s)
+                    return false;      //for not happy no
                 
-//                     temp=s;
-//                 // System.out.println("s = "+s);
+                    temp=s;
+                    temp2=s;
 //             }
 //         }
 //         return true;
